@@ -79,13 +79,15 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Sign-up for ProperTax
-    content: We represent you and your property.
+    content: <img src="/uploads/2018/10/26/noun_signature_2009001.png">
   col_2:
     headline: Assessment
     content: After your property tax is assessed we go to work using our technology.
   col_3:
     headline: Win / Win
     content: A reduction of your taxes is what we hope for.
+- template: signup-bar
+  block: cta-bar
 
 ---
 foo bar
