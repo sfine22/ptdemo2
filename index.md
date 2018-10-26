@@ -78,8 +78,8 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: Sign-up for ProperTax so we can represent you and your property.
-    content: Sign-up for ProperTax so we can represent you and your property.
+    headline: Sign-up for ProperTax
+    content: We represent you and your property.
   col_2:
     headline: After your property tax is assessed we go to work using our technology.
     content: After your property tax is assessed we go to work using our technology.
