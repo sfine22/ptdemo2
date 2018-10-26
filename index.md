@@ -81,7 +81,7 @@ page_sections:
     headline: Sign-up for ProperTax
     content: We represent you and your property.
   col_2:
-    headline: After your property tax is assessed we go to work using our technology.
+    headline: Assessment
     content: After your property tax is assessed we go to work using our technology.
   col_3:
     headline: Win / Win A reduction of your taxes is what we hope for.
