@@ -88,6 +88,9 @@ page_sections:
     content: A reduction of your taxes is what we hope for.
 - template: signup-bar
   block: cta-bar
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/10/25/ProperTax-logo.png"
 
 ---
 foo bar
