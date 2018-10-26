@@ -22,7 +22,7 @@ page_sections:
   block: hero-2
   headline: ProperTax<br><strong>We are the company that helps you reduce your property
     taxes, easily.</strong>
-  content: Using sophisticated data tools to help reduce your annual tax burden.
+  content: Using modern technology to win.
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
