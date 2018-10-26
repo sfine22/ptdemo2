@@ -75,6 +75,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Sign-up for ProperTax so we can represent you and your property.
+    content: Sign-up for ProperTax so we can represent you and your property.
+  col_2:
+    headline: After your property tax is assessed we go to work using our technology.
+    content: After your property tax is assessed we go to work using our technology.
 
 ---
 foo bar
