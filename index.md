@@ -26,7 +26,7 @@ page_sections:
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Let Us Represent You
+    button_text: Use ProperTax
   image:
     image: ''
     alt_text: Product Shot
