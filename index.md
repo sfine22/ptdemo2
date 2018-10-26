@@ -83,6 +83,9 @@ page_sections:
   col_2:
     headline: After your property tax is assessed we go to work using our technology.
     content: After your property tax is assessed we go to work using our technology.
+  col_3:
+    headline: Win / Win A reduction of your taxes is what we hope for.
+    content: Win / Win. A reduction of your taxes is what we hope for.
 
 ---
 foo bar
