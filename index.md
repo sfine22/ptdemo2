@@ -20,8 +20,8 @@ page_sections:
     button_text: Property Sign-Up
 - template: hero-banner-w-image
   block: hero-2
-  headline: ProperTax<br><strong>We are the company that helps you reduce your property
-    taxes, easily.</strong>
+  headline: ProperTax<br><strong>We are the company that reduces your property taxes,
+    easily.</strong>
   content: Using modern technology to win.
   cta:
     enabled: true
