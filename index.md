@@ -79,7 +79,7 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Sign-up for ProperTax
-    content: <img src="/uploads/2018/10/26/noun_signature_2009001.png">
+    content: We represent you and your property.
   col_2:
     headline: Assessment
     content: After your property tax is assessed we go to work using our technology.
